@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @utkarsh-spec
-- 👀 I’m interested in working on new projects 
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on androids project
-- 📫 How to reach me >> drop >> mcbairbro@gmail.com
+- 👋 Hi, I’m @utkarsh-spec.
+- 👀 I’m interested in working on new projects. 
+- 🌱 I’m currently learning web dev after giving two years in android.
+- 💞️ I’m looking to collaborate on androids project.
+- 📫 How to reach me >> drop >> mcbairbro@gmail.com.
 - Linkedin >>  https://www.linkedin.com/in/utkarsh-deo-gautam-83a397212/
 - Instagram >> @utkarshdeogautam 
 
