@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarsh-spec.
+- 👋 Hi, I am utkarsh
 - 👀 Data Scientist | Machine Learning Enthusiast | Data Visualization Expert
 
 Passionate about leveraging data to drive meaningful insights and guide data-informed decision-making. Experienced in applying statistical analysis, machine learning algorithms, and data visualization techniques to extract valuable insights from complex datasets.
@@ -15,7 +15,7 @@ Passionate about leveraging data to drive meaningful insights and guide data-inf
 
 🎓 Certificate in Data Science from Skillup, demonstrating a solid foundation in data science, statistical modeling, and machine learning.
 
-💼 Demonstrated track record of successfully tackling complex business problems through data analysis and delivering actionable recommendations, resulting in [specific achievements or impact].
+💼 Demonstrated track record of successfully tackling complex business problems through data analysis and delivering actionable recommendations.
 
 Passionate about the intersection of technology and data, I am constantly seeking new challenges to apply my expertise and contribute to data-driven innovation. Let's connect and explore how we can leverage the power of data science to uncover valuable insights and drive impactful outcomes.
 
